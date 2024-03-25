@@ -1,0 +1,56 @@
+{
+  "tag": "2024-03-20_010227",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.bitbar.testdroid",
+      "visible": true,
+      "checkable": true,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          28,
+          718
+        ],
+        [
+          572,
+          850
+        ]
+      ],
+      "resource_id": "com.bitbar.testdroid:id/radio0",
+      "checked": false,
+      "text": "Buy 101 devices",
+      "class": "android.widget.RadioButton",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 8,
+      "temp_id": 9,
+      "size": "544*132",
+      "signature": "[class]android.widget.RadioButton[resource_id]com.bitbar.testdroid:id/radio0[text]Buy 101 devices[enabled,,]",
+      "view_str": "0c434d5b2f39708ac3b875be601b420f",
+      "content_free_signature": "[class]android.widget.RadioButton[resource_id]com.bitbar.testdroid:id/radio0",
+      "allowed_actions": [
+        "select",
+        "unselect"
+      ],
+      "special_attrs": [],
+      "local_id": "2",
+      "desc": "<checkbox bound_box=28,718,572,850>Buy 101 devices</checkbox>"
+    }
+  },
+  "start_state": "7dc4b377caf09636d09d2d3ee2b2316b",
+  "stop_state": "677e46b26bb4388928ddd14172209cdb",
+  "event_str": "TouchEvent(state=7dc4b377caf09636d09d2d3ee2b2316b, view=0c434d5b2f39708ac3b875be601b420f(BitbarSampleApplicationActivity/RadioButton-Buy 101 de))"
+}

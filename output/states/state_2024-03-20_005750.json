@@ -1,0 +1,682 @@
+{
+  "tag": "2024-03-20_005750",
+  "state_str": "7519160e2ba4ae1bd342bc9ad20d3b41",
+  "state_str_content_free": "c69b2b01c05771e1d5fd69966e651b84",
+  "foreground_activity": "com.bitbar.testdroid/.BitbarSampleApplicationActivity",
+  "activity_stack": [
+    "com.bitbar.testdroid/.BitbarSampleApplicationActivity"
+  ],
+  "background_services": [
+    "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.shared.util.keepalive.StandaloneKeepAlive",
+    "com.google.android.gms/com.google.android.location.places.service.PlaceDetectionAsyncService",
+    "com.android.systemui/.keyguard.KeyguardService",
+    "com.android.systemui/.ImageWallpaper",
+    "com.google.android.gms/.gcm.GcmService",
+    "com.google.android.gms/.chimera.PersistentApiService",
+    "com.google.android.gms/.location.geocode.GeocodeService",
+    "com.android.phone/com.android.internal.telephony.CellularNetworkService",
+    "com.google.android.gms/.chimera.PersistentBoundBrokerService",
+    "com.google.android.gms/.chimera.GmsApiService",
+    "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.nowoverlayservice.DrawerOverlayService",
+    "io.github.ylimit.droidbotapp/.DroidBotIME",
+    "com.google.android.gms/com.google.android.location.fused.FusedLocationService",
+    "io.github.ylimit.droidbotapp/io.github.privacystreams.accessibility.PSAccessibilityService",
+    "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.nga.engine.viss.NgaService",
+    "com.android.systemui/.SystemUIService",
+    "android/.hardware.location.GeofenceHardwareService",
+    "com.android.se/.SecureElementService",
+    "com.google.android.youtube/com.google.android.apps.youtube.app.common.notification.FcmMessageListenerService",
+    "com.google.android.gms/.chimera.PersistentDirectBootAwareApiService",
+    "com.google.android.ext.services/android.ext.services.notification.Assistant",
+    "com.google.android.gms/com.google.android.location.internal.PendingIntentCallbackService",
+    "com.google.android.gms/com.google.android.location.internal.server.GoogleLocationService",
+    "com.google.android.gms/com.google.android.contextmanager.service.ContextManagerService",
+    "com.google.android.gms/com.google.android.location.network.NetworkLocationService",
+    "com.google.android.gms/com.google.android.location.internal.GoogleLocationManagerService",
+    "com.google.android.apps.messaging/com.google.firebase.iid.FirebaseInstanceIdService",
+    "com.android.phone/com.android.internal.telephony.dataconnection.CellularDataService",
+    "com.android.server.telecom/.components.TelecomService",
+    "com.android.chrome/org.chromium.chrome.browser.customtabs.CustomTabsConnectionService",
+    "com.google.android.googlequicksearchbox/com.google.android.voiceinteraction.GsaVoiceInteractionService",
+    "com.android.smspush/.WapPushManager",
+    "com.android.phone/.vvm.RemoteVvmTaskManager",
+    "android/com.android.server.content.SyncJobService",
+    "com.google.android.gms/com.google.android.location.internal.server.HardwareArProviderService",
+    "com.google.android.googlequicksearchbox/androidx.work.impl.background.gcm.WorkManagerGcmService",
+    "com.google.android.gm/com.google.firebase.iid.FirebaseInstanceIdService",
+    "com.android.phone/.TelephonyDebugService",
+    "com.google.android.videos/.service.pinning.TransferService",
+    "com.google.android.apps.messaging/.shared.datamodel.action.ActionExecutorImpl",
+    "com.google.android.apps.nexuslauncher/com.android.quickstep.TouchInteractionService"
+  ],
+  "width": 1080,
+  "height": 1920,
+  "views": [
+    {
+      "package": "com.bitbar.testdroid",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        1
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1080,
+          1788
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": -1,
+      "temp_id": 0,
+      "size": "1080*1788",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "1deba931bc0792813bc7c9335b81cd72",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+    },
+    {
+      "package": "com.bitbar.testdroid",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        2
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1080,
+          1788
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 0,
+      "temp_id": 1,
+      "size": "1080*1788",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "20c356df3fe2d563f184a7ec4b6bd4c6",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.bitbar.testdroid",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        3
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1080,
+          1788
+        ]
+      ],
+      "resource_id": "android:id/content",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 1,
+      "temp_id": 2,
+      "size": "1080*1788",
+      "signature": "[class]android.widget.FrameLayout[resource_id]android:id/content[text]None[enabled,,]",
+      "view_str": "f783484c4db42c118c1e0653243af0a0",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/content"
+    },
+    {
+      "package": "com.bitbar.testdroid",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        4
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1080,
+          1788
+        ]
+      ],
+      "resource_id": "com.bitbar.testdroid:id/scroller",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ScrollView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 2,
+      "temp_id": 3,
+      "size": "1080*1788",
+      "signature": "[class]android.widget.ScrollView[resource_id]com.bitbar.testdroid:id/scroller[text]None[enabled,,]",
+      "view_str": "fda5bf238410fb74adba1e6d5a9671ce",
+      "content_free_signature": "[class]android.widget.ScrollView[resource_id]com.bitbar.testdroid:id/scroller"
+    },
+    {
+      "package": "com.bitbar.testdroid",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        5,
+        13
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1080,
+          1788
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 3,
+      "temp_id": 4,
+      "size": "1080*1788",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "4408dcbecd4048acd076281ba638054c",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.bitbar.testdroid",
+      "visible": true,
+      "checkable": false,
+      "child_count": 4,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        6,
+        7,
+        8,
+        12
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          28,
+          28
+        ],
+        [
+          1052,
+          1290
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 4,
+      "temp_id": 5,
+      "size": "1024*1262",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "bb81a24bde09d8be603e2186926559cb",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.bitbar.testdroid",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": "Bitbar logo",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          28,
+          28
+        ],
+        [
+          1052,
+          409
+        ]
+      ],
+      "resource_id": "com.bitbar.testdroid:id/imageView1",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 5,
+      "temp_id": 6,
+      "size": "1024*381",
+      "signature": "[class]android.widget.ImageView[resource_id]com.bitbar.testdroid:id/imageView1[text]None[enabled,,]",
+      "view_str": "a560e1c6f5f860ba1b86922311c78f1c",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.bitbar.testdroid:id/imageView1",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "0",
+      "desc": "<p text='Bitbar logo' bound_box=28,28,1052,409></p>"
+    },
+    {
+      "package": "com.bitbar.testdroid",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          28,
+          409
+        ],
+        [
+          1052,
+          635
+        ]
+      ],
+      "resource_id": "com.bitbar.testdroid:id/textView1",
+      "checked": false,
+      "text": "What is the best way to test your application against over one hundred devices?",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 5,
+      "temp_id": 7,
+      "size": "1024*226",
+      "signature": "[class]android.widget.TextView[resource_id]com.bitbar.testdroid:id/textView1[text]None[enabled,,]",
+      "view_str": "89b6ab28c790fdcbb2280077d5ef80dd",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.bitbar.testdroid:id/textView1",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "1",
+      "desc": "<p bound_box=28,409,1052,635>What is the best way to test your application against over one hundred devices?</p>"
+    },
+    {
+      "package": "com.bitbar.testdroid",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        9,
+        10,
+        11
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          28,
+          718
+        ],
+        [
+          678,
+          1114
+        ]
+      ],
+      "resource_id": "com.bitbar.testdroid:id/radioGroup1",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RadioGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 5,
+      "temp_id": 8,
+      "size": "650*396",
+      "signature": "[class]android.widget.RadioGroup[resource_id]com.bitbar.testdroid:id/radioGroup1[text]None[enabled,,]",
+      "view_str": "b74e72104af5ff475aaf54a595b14fc2",
+      "content_free_signature": "[class]android.widget.RadioGroup[resource_id]com.bitbar.testdroid:id/radioGroup1"
+    },
+    {
+      "package": "com.bitbar.testdroid",
+      "visible": true,
+      "checkable": true,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          28,
+          718
+        ],
+        [
+          572,
+          850
+        ]
+      ],
+      "resource_id": "com.bitbar.testdroid:id/radio0",
+      "checked": false,
+      "text": "Buy 101 devices",
+      "class": "android.widget.RadioButton",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 8,
+      "temp_id": 9,
+      "size": "544*132",
+      "signature": "[class]android.widget.RadioButton[resource_id]com.bitbar.testdroid:id/radio0[text]Buy 101 devices[enabled,,]",
+      "view_str": "0c434d5b2f39708ac3b875be601b420f",
+      "content_free_signature": "[class]android.widget.RadioButton[resource_id]com.bitbar.testdroid:id/radio0",
+      "allowed_actions": [
+        "select",
+        "unselect"
+      ],
+      "special_attrs": [],
+      "local_id": "2",
+      "desc": "<checkbox bound_box=28,718,572,850>Buy 101 devices</checkbox>"
+    },
+    {
+      "package": "com.bitbar.testdroid",
+      "visible": true,
+      "checkable": true,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          28,
+          850
+        ],
+        [
+          678,
+          982
+        ]
+      ],
+      "resource_id": "com.bitbar.testdroid:id/radio1",
+      "checked": true,
+      "text": "Use Testdroid Cloud",
+      "class": "android.widget.RadioButton",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 8,
+      "temp_id": 10,
+      "size": "650*132",
+      "signature": "[class]android.widget.RadioButton[resource_id]com.bitbar.testdroid:id/radio1[text]Use Testdroid Cloud[enabled,checked,]",
+      "view_str": "6ffdeea1eedf650458bee3093538ac46",
+      "content_free_signature": "[class]android.widget.RadioButton[resource_id]com.bitbar.testdroid:id/radio1",
+      "allowed_actions": [
+        "select",
+        "unselect"
+      ],
+      "special_attrs": [
+        "selected"
+      ],
+      "local_id": "3",
+      "desc": "<checkbox bound_box=28,850,678,982>Use Testdroid Cloud</checkbox>"
+    },
+    {
+      "package": "com.bitbar.testdroid",
+      "visible": true,
+      "checkable": true,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          28,
+          982
+        ],
+        [
+          615,
+          1114
+        ]
+      ],
+      "resource_id": "com.bitbar.testdroid:id/radio2",
+      "checked": false,
+      "text": "Ask mom for help",
+      "class": "android.widget.RadioButton",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 8,
+      "temp_id": 11,
+      "size": "587*132",
+      "signature": "[class]android.widget.RadioButton[resource_id]com.bitbar.testdroid:id/radio2[text]Ask mom for help[enabled,,]",
+      "view_str": "018ac91a118788fe07c099b2567f4fc5",
+      "content_free_signature": "[class]android.widget.RadioButton[resource_id]com.bitbar.testdroid:id/radio2",
+      "allowed_actions": [
+        "select",
+        "unselect"
+      ],
+      "special_attrs": [],
+      "local_id": "4",
+      "desc": "<checkbox bound_box=28,982,615,1114>Ask mom for help</checkbox>"
+    },
+    {
+      "package": "com.bitbar.testdroid",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": true,
+      "bounds": [
+        [
+          28,
+          1197
+        ],
+        [
+          1052,
+          1290
+        ]
+      ],
+      "resource_id": "com.bitbar.testdroid:id/editText1",
+      "checked": false,
+      "text": "Hello World",
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 5,
+      "temp_id": 12,
+      "size": "1024*93",
+      "signature": "[class]android.widget.EditText[resource_id]com.bitbar.testdroid:id/editText1[text]Hello World[enabled,,]",
+      "view_str": "7e5e1ce9acb7f00cb13b18f32cb4a402",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.bitbar.testdroid:id/editText1",
+      "allowed_actions": [
+        "touch",
+        "set_text",
+        "long_touch"
+      ],
+      "special_attrs": [],
+      "local_id": "5",
+      "desc": "<input bound_box=28,1197,1052,1290>Hello World</input>"
+    },
+    {
+      "package": "com.bitbar.testdroid",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        14
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          28,
+          1290
+        ],
+        [
+          1052,
+          1760
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 4,
+      "temp_id": 13,
+      "size": "1024*470",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "07d578059f8e5b19a0957abdec4c8c6f",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.bitbar.testdroid",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          766,
+          1622
+        ],
+        [
+          1052,
+          1760
+        ]
+      ],
+      "resource_id": "com.bitbar.testdroid:id/button1",
+      "checked": false,
+      "text": "Answer",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 13,
+      "temp_id": 14,
+      "size": "286*138",
+      "signature": "[class]android.widget.Button[resource_id]com.bitbar.testdroid:id/button1[text]Answer[enabled,,]",
+      "view_str": "1fb3786f5baf1bbdc9acd4b993bf4487",
+      "content_free_signature": "[class]android.widget.Button[resource_id]com.bitbar.testdroid:id/button1",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "6",
+      "desc": "<button bound_box=766,1622,1052,1760>Answer</button>"
+    }
+  ]
+}

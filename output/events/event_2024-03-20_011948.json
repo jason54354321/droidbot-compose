@@ -1,0 +1,58 @@
+{
+  "tag": "2024-03-20_011948",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.bitbar.testdroid",
+      "visible": true,
+      "checkable": true,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          28,
+          982
+        ],
+        [
+          615,
+          1114
+        ]
+      ],
+      "resource_id": "com.bitbar.testdroid:id/radio2",
+      "checked": true,
+      "text": "Ask mom for help",
+      "class": "android.widget.RadioButton",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 8,
+      "temp_id": 11,
+      "size": "587*132",
+      "signature": "[class]android.widget.RadioButton[resource_id]com.bitbar.testdroid:id/radio2[text]Ask mom for help[enabled,checked,]",
+      "view_str": "00c7fcec3c3c780898226babd033ff25",
+      "content_free_signature": "[class]android.widget.RadioButton[resource_id]com.bitbar.testdroid:id/radio2",
+      "allowed_actions": [
+        "select",
+        "unselect"
+      ],
+      "special_attrs": [
+        "selected"
+      ],
+      "local_id": "4",
+      "desc": "<checkbox bound_box=28,982,615,1114>Ask mom for help</checkbox>"
+    }
+  },
+  "start_state": "2f1167b6b21aac5706b1e3142120a7e5",
+  "stop_state": "2f1167b6b21aac5706b1e3142120a7e5",
+  "event_str": "TouchEvent(state=2f1167b6b21aac5706b1e3142120a7e5, view=00c7fcec3c3c780898226babd033ff25(BitbarSampleApplicationActivity/RadioButton-Ask mom fo))"
+}

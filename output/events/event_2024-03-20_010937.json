@@ -1,0 +1,55 @@
+{
+  "tag": "2024-03-20_010937",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.bitbar.testdroid",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          1062
+        ],
+        [
+          1080,
+          1288
+        ]
+      ],
+      "resource_id": "com.bitbar.testdroid:id/textView2",
+      "checked": false,
+      "text": "Congratulations Hello WorldHello WorlHello WorldHello WorldHello WorldHello WorldHello Worldd!",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 4,
+      "temp_id": 7,
+      "size": "1080*226",
+      "signature": "[class]android.widget.TextView[resource_id]com.bitbar.testdroid:id/textView2[text]None[enabled,,]",
+      "view_str": "c657662931c5b893e7c27c461dca4ceb",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.bitbar.testdroid:id/textView2",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "2",
+      "desc": "<p bound_box=0,1062,1080,1288>Congratulations Hello WorldHello WorlHello WorldHello WorldHello WorldHello WorldHello Worldd!</p>"
+    }
+  },
+  "start_state": "b58cb882ec01faf765f60abf173ef9cc",
+  "stop_state": "b58cb882ec01faf765f60abf173ef9cc",
+  "event_str": "TouchEvent(state=b58cb882ec01faf765f60abf173ef9cc, view=c657662931c5b893e7c27c461dca4ceb(CorrectAnswerActivity/TextView-Congratula))"
+}

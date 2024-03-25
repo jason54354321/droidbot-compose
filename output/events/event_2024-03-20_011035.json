@@ -1,0 +1,11 @@
+{
+  "tag": "2024-03-20_011035",
+  "event": {
+    "event_type": "intent",
+    "log_lines": null,
+    "intent": "am start com.bitbar.testdroid/com.bitbar.testdroid.BitbarSampleApplicationActivity"
+  },
+  "start_state": "92eb3db6de055e269bd3b917c60e157c",
+  "stop_state": "5442d78a1efbb81860bf52961f0eb979",
+  "event_str": "IntentEvent(intent='am start com.bitbar.testdroid/com.bitbar.testdroid.BitbarSampleApplicationActivity')"
+}

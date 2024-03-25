@@ -1,0 +1,11 @@
+{
+  "tag": "2024-03-20_012010",
+  "event": {
+    "event_type": "key",
+    "log_lines": null,
+    "name": "BACK"
+  },
+  "start_state": "0a7edfba1cab8049ac5b84036a2fea4a",
+  "stop_state": "2f1167b6b21aac5706b1e3142120a7e5",
+  "event_str": "KeyEvent(state=0a7edfba1cab8049ac5b84036a2fea4a, name=BACK)"
+}

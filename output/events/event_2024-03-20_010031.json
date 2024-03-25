@@ -1,0 +1,58 @@
+{
+  "tag": "2024-03-20_010031",
+  "event": {
+    "event_type": "set_text",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.bitbar.testdroid",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": true,
+      "bounds": [
+        [
+          28,
+          1197
+        ],
+        [
+          1052,
+          1290
+        ]
+      ],
+      "resource_id": "com.bitbar.testdroid:id/editText1",
+      "checked": false,
+      "text": "Hello WorldHello World",
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 5,
+      "temp_id": 12,
+      "size": "1024*93",
+      "signature": "[class]android.widget.EditText[resource_id]com.bitbar.testdroid:id/editText1[text]Hello WorldHello World[enabled,,]",
+      "view_str": "62551ce1273735043ba8be8beecad7fb",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.bitbar.testdroid:id/editText1",
+      "allowed_actions": [
+        "touch",
+        "set_text",
+        "long_touch"
+      ],
+      "special_attrs": [],
+      "local_id": "5",
+      "desc": "<input bound_box=28,1197,1052,1290>Hello WorldHello World</input>"
+    },
+    "text": "Hello World"
+  },
+  "start_state": "0a4b66b353b3453654266665f9a69419",
+  "stop_state": "b02ed262a925142e6d95595cf78aba23",
+  "event_str": "SetTextEvent(state=0a4b66b353b3453654266665f9a69419, view=62551ce1273735043ba8be8beecad7fb(BitbarSampleApplicationActivity/EditText-Hello Worl), text=Hello World)"
+}
