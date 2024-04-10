@@ -3,7 +3,7 @@
 ## Prerequisite
 
 This docker compose project, due to `android-emulator` image's requirement, has to run 
-with linux environment.
+with Linux environment.
 
 ### Wsl
 1. Make sure your wsl runs on Window11, because `wsl nested virtualization` is required.
