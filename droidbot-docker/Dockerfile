@@ -48,6 +48,10 @@ COPY adbkey.pub /root/.android/adbkey.pub
 
 RUN adb devices
 
+COPY test-script.py /root/
+
+ENTRYPOINT ["python3", "test-script.py"]
+
 CMD ["ping", "android-emulator"]
 
 # CMD [ "droidbot", \
