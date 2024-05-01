@@ -34,20 +34,22 @@ with Linux environment.
 
 ### Test setting
 1. Clone the project
-    `git clone https://github.com/jason54354321/droidbot-compose.git`
-2. Change directory
-    `cd droidbot-compose`
-3. Place your apk to be testing into `apl/` folder
+    ```console
+    git clone https://github.com/jason54354321/droidbot-compose.git && cd droidbot-compose
+    ```
+2. Place your apk to be testing into `apl/` folder
 
-4. Set testing period per app
+3. Set testing period per app
     Manually modify `test_duration` variable in `test-script.py`
     > Planing to extract into env variable, or design a general setting interfact
 
 ### Execute
 
 5. Run the droidbot-compose
-    `docker compose up -d`
-   , and you can monitor testing process with `docker logs droidbot-compose-droidbot-1 --follow`
+    ```
+    docker compose up -d
+    ```
+    
+6. You can monitor testing process with `docker logs droidbot-compose-droidbot-1 --follow`
 
-6. Your testing report will be place in `output/` folder
-
+7. Your testing report will be place in `output/` folder
