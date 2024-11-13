@@ -37,10 +37,9 @@ with Linux environment.
     ```console
     git clone https://github.com/jason54354321/droidbot-compose.git && cd droidbot-compose
     ```
-2. Place your apk to be testing into `apl/` folder
+2. Place your apk to be testing into `apk/` folder
 
-3. Set testing period per app
-    Manually modify `test_duration` variable in `test-script.py`
+3. Set testing period per app by manually modify `test_duration` variable in `test-script.py`
     > Planing to extract into env variable, or design a general setting interfact
 
 ### Execute
